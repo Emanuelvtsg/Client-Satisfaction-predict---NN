@@ -1,0 +1,1 @@
+The data used here is quite large, so i cant upload the file here. Instead, you can download it from its source at Kaggle: https://www.kaggle.com/competitions/amex-default-prediction/data?select=train_data.csv
